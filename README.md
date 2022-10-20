@@ -18,3 +18,5 @@ Aplicação em funcionamento:
 GitHub:
 https://github.com/PhMoraiis/Pokedex
 
+## Imagem do Projeto
+<img src="assets/projetoFinalizado.png" alt="Imagem do Projeto Finalizado"/>
